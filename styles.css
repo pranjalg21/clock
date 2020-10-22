@@ -1,0 +1,12 @@
+.analog-clock {
+  width: 100vw;
+  height: 100vh;
+  max-width: 800px;
+  max-height: 800px;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: black;
+}
